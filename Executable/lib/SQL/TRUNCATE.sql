@@ -1,0 +1,9 @@
+SET SQL_SAFE_UPDATES = 0;
+SET FOREIGN_KEY_CHECKS = 0; 
+TRUNCATE `fact_types`;
+TRUNCATE `relation_types`;
+TRUNCATE `nations`;
+TRUNCATE `continents`;
+TRUNCATE `facts`;
+SET FOREIGN_KEY_CHECKS = 1; 
+SET SQL_SAFE_UPDATES = 1;

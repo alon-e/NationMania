@@ -1,0 +1,42 @@
+Name,Meanings
+<created>,0
+<dealsWith>,Has economical relations with The %s
+<diedIn>,0
+<exports>,Main exported goods: %s
+<happenedIn>,An event of this nation: The %s
+<hasCapital>,Capital: The %s
+<hasCurrency>,Currency: %s
+<hasEconomicGrowth>,Ecomonical Growth: %s highest in the world
+<hasExpenses>,Total Expenses: %s highest  in the world
+<hasExport>,Total Export: %s highest  in the world
+<hasGDP>,GDP: %s greatest in the world
+<hasGini>,Ranked %s in Gini index (Inequality)
+<hasImport>,Total Export: %s highest  in the world
+<hasInflation>,Inflation Rate: %s highest in the world
+<hasLatitude>,0
+<hasLongitude>,0
+<hasMotto>,Motto: %s
+<hasNumberOfPeople>,%s largest population in the world
+<hasOfficialLanguage>,Official language: %s
+<hasPoverty>,%s poorest nation in the world
+<hasRevenue>,Revenue: %s highest in the world
+<hasTLD>,national domain names: www . google%s
+<hasUnemployment>,Unemplyment Ratio: %s highest in the world
+<hasWonPrize>,0
+<imports>,Main imported goods: %s
+<isCitizenOf>,A citizen of this nation: The %s
+<isConnectedTo>,0
+<isInterestedIn>,0
+<isKnownFor>,0
+<isLeaderOf>,0
+<isLocatedIn>,A place in this nation:  The %s
+<isPoliticianOf>,A politician in this nation: The %s
+<livesIn>,0
+<owns>,The %s is owned by this nation
+<participatedIn>,This nation participated in: The %s
+<wasBornIn>,0
+<wasCreatedOnDate>,This nation was founded on: %s
+<wordnet_administrative_district_108491826>,region
+<wordnet_officeholder_110371450>,minister
+<wordnet_language_106282651>, 
+<wordnet_currency_113385913>, 
